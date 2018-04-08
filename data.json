@@ -1,0 +1,52 @@
+{
+	"basics":{
+		 "name ":"anusha",
+		 "email":"danushareddy28@gmail.com",
+		 "mobile":"8882828999",
+		 "Address":"Anantapur,Andhrapradesh"
+	},
+	"carrer":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+	},
+	"education":[
+{ 
+	"degree": "B-tech",
+ "institute":"SVIT,Anantapur",
+"data":["2015-19","75%"]
+},
+
+{
+"degree": "intermediate",
+ "institute":"APMS&JRC,c.k.palli",
+"data":["2013-2015","75%"]
+
+
+},
+
+{
+	"degree": "S.S.C",
+ "institute":"ZPHS,c.k.palli",
+"data":["2013","77%"]
+}
+
+	],
+	"skills":[
+		{
+			"sname":"Languages",
+			"sdata":["c","c++","java"]
+		},
+		{
+			"sname":"Databases",
+			"sdata":["Oracle","MySql","PDO"]
+		},
+		{
+			"sname":"Web Tecnologies",
+			"sdata":["HTML","XML","CSS","PHP","Javascript"]
+		},
+		{
+			"sname":"Operating-System",
+			"sdata":["Windows","Linux","Unix"]
+		}
+	]
+}
